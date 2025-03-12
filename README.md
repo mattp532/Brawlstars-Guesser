@@ -1,2 +1,2 @@
-Brawlstars guesser inspired by https://loldle.net/
+Brawlstars character guesser inspired by https://loldle.net/
 Built as a project for CPS109 course
