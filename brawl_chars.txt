@@ -1,0 +1,86 @@
+8 Bit:Damage Dealer:Robot:2019:Has Hypercharge:Super Rare:Unknown
+amber:Controller:Human:2020:No Hypercharge:Legendary:Female
+angelo:Marksman:Animal:2024:Has Hypercharge:Epic:Male
+ash:Tank:Robot:2021:No Hypercharge:Epic:Male
+barley:Robot:Thrower:2017:Has Hypercharge:Rare:Male
+bea:Marksman:Human:2019:No Hypercharge:Epic:Female
+belle:Marksman:Human:2021:Has Hypercharge:Epic:Female
+berry:Support:Animal:2024:No Hypercharge:Epic:Male
+bibi:Tank:Human:2019:Has Hypercharge:Epic:Female
+bo:Controller:Human:2017:No Hypercharge:Epic:Male
+bonnie:Marksman:Human:2022:No Hypercharge:Epic:Female
+shelly:Damage Dealer:Human:2017:Has Hypercharge:Starting Brawler:Female
+nita:Damage Dealer:Human:2017:Has Hypercharge:Rare:Female
+colt:Damage Dealer:Human:2017:Has Hypercharge:Rare:Male
+bull:Tank:Human:2017:Has Hypercharge:Rare:Male
+brock:Marksman:Human:2017:Has Hypercharge:Rare:Male
+el primo:Tank:Human:2017:Has Hypercharge:Rare:Male
+poco:Support:Other:2017:Has Hypercharge:Rare:Male
+jessie:Controller:Human:2017:Has Hypercharge:Super Rare:Female
+dynamike:Thrower:Human:2017:Has Hypercharge: Super Rare:Male
+rico:Damage Dealer:Robot:2017:Has Hypercharge:Super Rare:Male
+mortis:Assassin:Monster:2017:Has Hypercharge:Mythic:Male
+spike:Damage Dealer:Monster:2017:Has Hypercharge:Legendary:Male
+crow:Assassin:Animal:2017:Has Hypercharge:Legendary:Male
+piper:Marksman:Human:2017:Has Hypercharge:Epic:Female
+pam:Support:Human:2017:No Hypercharge:Epic:Female
+tara:Damage Dealer:Human:2017:Has Hypercharge:Mythic:Female
+darryl:Tank:Robot:2017:Has Hypercharge:Super Rare:Male
+penny:Thrower:Human:2018:Has Hypercharge:Super Rare:Female
+frank:Tank:Monster:2018:Has Hypercharge:Epic:Male
+leon:Assassin:Human:2018:Has Hypercharge:Legendary:Male
+gene:Controller:Monster:2019:Has Hypercharge:Mythic:Male
+carl:Damage Dealer:Robot:2019:No Hypercharge:Super Rare:Male
+rosa:Tank:Human:2019:Has Hypercharge:Rare:Female
+tik:Thrower:Robot:2019:Has Hypercharge:Super Rare:Male
+sandy:Controller:Human:2019:Has Hypercharge:Legendary:Male
+emz:Controller:Monster:2019:Has Hypercharge:Epic:Female
+max:Support:Human:2019:Has Hypercharge:Mythic:Female
+mr P:Controller:Animal:2020:No Hypercharge:Mythic:Male
+jacky:Tank:Human:2020:Has Hypercharge:Super Rare:Female
+sprout:Thrower:Robot:2020:Has Hypercharge:Mythic:Unknown
+gale:Controller:Human:2020:Has Hypercharge:Epic:Male
+nani:Marksman:Robot:2020:Has Hypercharge:Epic:Female
+surge:Damage Dealer:Robot:2020:Has Hypercharge:Legendary:Male
+collette:Damage Dealer:Human:2020:Has Hypercharge:Epic:Female
+lou:Controller:Robot:2020:Has Hypercharge:Mythic:Male
+byron:Support:Human:2020:No Hypercharge:Mythic:Male
+edgar:Assassin:Human:2020:Has Hypercharge:Epic:Male
+ruffs:Support:Animal:2021:Has Hypercharge:Mythic:Male
+stu:Assassin:Robot:2021:Has Hypercharge:Epic:Male
+squeak:Controller:Other:2021:Has Hypercharge:Mythic:Male
+buzz:Assassin:Animal:2021:Has Hypercharge:Mythic:Male
+griff:Controller:Robot:2021:No Hypercharge:Epic:Male
+meg:Tank:Human:2021:No Hypercharge:Legendary:Female
+lola:Damage Dealer:Human:2021:No Hypercharge:Epic:Female
+grom:Thrower:Human:2021:No Hypercharge:Epic:Male
+fang:Assassin:Human:2022:Has Hypercharge:Mythic:Male
+eve:Damage Dealer:Monster:2022:No Hypercharge:Mythic:Female
+janet:Marksman:Human:2022:No Hypercharge:Mythic:Female
+otis:Controller:Monster:2022:Hypercharge:Mythic:Male
+sam:Assassin:Human:2022:No Hypercharge:Epic:Male
+gus:Support:Human:2022:No Hypercharge:Super Rare:Male
+buster:Tank:Human:2022:No Hypercharge:Mythic:Male
+chester:Damage Dealer:Human:2022:No Hypercharge:Legendary:Male
+gray:Support:Human:2023:No Hypercharge:Mythic:Male
+mandy:Marksman:Human:2023:No Hypercharge:Epic:Female
+rt:Damage Dealer:Robot:2023:No Hypercharge:Mythic:Male
+willow:Controller:Monster:2023:No Hypercharge:Mythic:Female
+maisie:Marksman:Human:2023:Has Hypercharge:Epic:Female
+hank:Tank:Human:2023:Has Hypercharge:Epic:Male
+cordelius:Assassin:Monster:2023:Has Hypercharge:Legendary:Male
+doug:Support:Monster:2023:No Hypercharge:Mythic:Male
+chuck:Damage Dealer:Human:2023:No Hypercharge:Mythic:Male
+pearl:Damage Dealer:Robot:2023:Has Hypercharge:Epic:Female
+charlie:Controller:Human:2023:Has Hypercharge:Mythic:Female
+larry and lawrie:Thrower:Robot:2023:No Hypercharge:Epic:Male
+kit:Support:Animal:2023:No Hypercharge:Legendary:Male
+mico:Assassin:Animal:2023:Has Hypercharge:Mythic:Male
+kenji:Assassin:Human:2024:No Hypercharge:Legendary:Male
+shade:Assassin:Monster:2024:No Hypercharge:Epic:Male
+juju:Thrower:Human:2024:No Hypercharge:Mythic:Female
+moe:Damage Dealer:Animal:2024:No Hypercharge:Mythic:Male
+draco:Tank:Human:2024:No Hypercharge:Legendary:Male
+clancy:Damage Dealer:Animal:2024:No Hypercharge:Mythic:Male
+lily:Assassin:Monster:2024:No Hypercharge:Mythic:Female
+melodie:Assassin:Human:2024:No Hypercharge:Mythic:Female
