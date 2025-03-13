@@ -1,2 +1,4 @@
-Brawlstars character guesser inspired by https://loldle.net/
-Built as a project for CPS109 course
+# Brawl Stars Character Guesser
+
+## Overview
+A Python-based guessing game where players guess Brawl Stars characters based on clues such as rarity, type, and abilities. Inspired by **LOLdle**, built for the **CPS109** course.
